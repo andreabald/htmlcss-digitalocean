@@ -139,3 +139,41 @@ header{
 .font-17{
   font-size: 17px;
 }
+
+.bg-dark-blue{
+  background-color: #031b4e;
+}
+
+.pr-40{
+  padding-right: 40px;
+}
+
+.relative{
+  position:relative;
+}
+
+.bord-bot{
+  border-bottom: 1px solid #999999;
+}
+
+.text-right{
+  position: absolute;
+  right: 15px;
+  display: inline-block;
+}
+
+.pad-tbl{
+  padding:10px 0 10px 15px;
+}
+
+.marg-10{
+  margin: 10px;
+}
+
+.pr-10{
+  padding-right: 10px;
+}
+
+.pl-10{
+  padding-left: 10px;
+}
