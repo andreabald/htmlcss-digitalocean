@@ -1,3 +1,7 @@
+header{
+  margin-top: 100px;
+}
+
 .titolo{
   font-size: 13px;
 }
@@ -38,6 +42,10 @@
   margin: 100px 0;
 }
 
+.mt-100{
+  margin-top: 100px;
+}
+
 .mb-100{
   margin-bottom: 100px;
 }
@@ -56,6 +64,10 @@
 
 .mb-10{
   margin-bottom: 10px;
+}
+
+.mb-20{
+  margin-bottom: 20px;
 }
 
 .mb-30{
@@ -79,8 +91,16 @@
   color: white;
 }
 
+.font-20{
+  font-size: 20px;
+}
+
 .font-30{
   font-size: 30px;
+}
+
+.font-40{
+  font-size: 40px;
 }
 
 .font-60{
@@ -98,4 +118,38 @@
 .customer img{
   width: 100%;
   height: auto;
+}
+
+.gray{
+  color: #999999;
+}
+
+.borderleft{
+  border-left: 2px solid #999999;
+  padding-left: 0;
+}
+
+.borderleft ul li{
+  list-style: none;
+}
+
+.borderleft ul li a{
+  text-decoration: none;
+}
+
+.borderleft ul{
+  padding-inline-start: 15px;
+}
+
+.goccia{
+  width: 30px;
+}
+
+.goccia img{
+  width: 100%;
+  height: auto;
+}
+
+.font-17{
+  font-size: 17px;
 }
