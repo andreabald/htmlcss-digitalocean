@@ -11,7 +11,7 @@ header{
   width: 180px;
 }
 
-.logo img{
+.dim-img{
   width: 100%;
   height: auto;
 }
@@ -115,11 +115,6 @@ header{
   margin: auto;
 }
 
-.customer img{
-  width: 100%;
-  height: auto;
-}
-
 .gray{
   color: #999999;
 }
@@ -143,11 +138,6 @@ header{
 
 .goccia{
   width: 30px;
-}
-
-.goccia img{
-  width: 100%;
-  height: auto;
 }
 
 .font-17{
