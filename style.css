@@ -181,3 +181,26 @@ header{
 .pl-10{
   padding-left: 10px;
 }
+
+.col-md-2 ul li{
+  list-style: none;
+}
+
+.col-md-2 ul li a{
+  text-decoration: none;
+}
+
+.social ul li{
+  list-style: none;
+  display: inline-block;
+  padding-right: 10px;
+}
+
+.social ul li a{
+  text-decoration: none;
+  font-size: 2em;
+}
+
+.social ul{
+  padding-left: 0;
+}
