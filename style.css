@@ -25,3 +25,60 @@
   border: 1px solid #031b4e;
   border-radius: 3px;
 }
+
+.bg-blue{
+  background-color:#0069ff;
+}
+
+.pad-30{
+  padding: 30px;
+}
+
+.mtb-100{
+  margin: 100px 0;
+}
+
+.mb-100{
+  margin-bottom: 100px;
+}
+
+.mt-50{
+  margin-top: 50px;
+}
+
+.mt-30{
+  margin-top: 30px;
+}
+
+.mb-10{
+  margin-bottom: 10px;
+}
+
+.mb-30{
+  margin-bottom: 30px;
+}
+
+.bg-white{
+  background-color: white;
+  border-radius: 3px;
+}
+
+.dark-blue{
+  color: #031b4e;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.white{
+  color: white;
+}
+
+.font-30{
+  font-size: 30px;
+}
+
+.font-60{
+  font-size: 60px;
+}
