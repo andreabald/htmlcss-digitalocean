@@ -16,17 +16,13 @@ header{
   height: auto;
 }
 
-.blue li a{
-  color: #031b4e !important;
-}
-
 .navbar{
   margin-bottom: 0;
 }
 
 .button-signin li a{
   display: inline-block;
-  border: 1px solid #031b4e;
+  border: 2px solid #031b4e;
   border-radius: 3px;
 }
 
