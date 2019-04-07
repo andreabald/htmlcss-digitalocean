@@ -148,26 +148,8 @@ header{
   background-color: #031b4e;
 }
 
-.pr-40{
-  padding-right: 40px;
-}
-
-.relative{
-  position:relative;
-}
-
-.bord-bot{
-  border-bottom: 1px solid #999999;
-}
-
-.text-right{
-  position: absolute;
-  right: 15px;
-  display: inline-block;
-}
-
-.pad-tbl{
-  padding:10px 0 10px 15px;
+table tbody tr:first-child td{
+  border-top: 0;
 }
 
 .marg-10{
@@ -203,4 +185,41 @@ header{
 
 .social ul{
   padding-left: 0;
+}
+
+@media all and (max-width: 768px){
+  header{
+    margin-top:0;
+  }
+
+  .mb-100{
+    margin-bottom: 50px;
+  }
+
+  .mt-100{
+    margin-top: 50px;
+  }
+
+  .bg-blue .col-md-7 h1{
+    font-size: 50px;
+  }
+
+  .borderleft{
+    border: none;
+  }
+
+  .borderleft ul li{
+    display: inline-block;
+    font-size: 15px;
+    padding-right: 5px;
+  }
+
+  .col-md-3 ul{
+    margin-bottom: 50px;
+  }
+
+  .bg-dark-blue .mt-100 .col-md-4{
+    padding: 0 30px 30px 40px;
+  }
+
 }
